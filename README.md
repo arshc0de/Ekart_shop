@@ -1,6 +1,7 @@
 # Ekart_shop
 
 🛒 **E-commerce Full Stack Project** 🌐 🚀
+🔃 **🤖Status: Under Development (Not completed yet)**
 
 ## Overview
 
